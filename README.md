@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404programnotfound&theme=monokai" alt="404programnotfound" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bdream01353403" target="blank"><img src="https://img.shields.io/twitter/follow/bdream01353403?logo=twitter&style=for-the-badge" alt="bdream01353403" /></a> </p>
+<p align="left"> <a href="https://twitter.com/404Program" target="blank"><img src="https://img.shields.io/twitter/follow/404Program?logo=twitter&style=for-the-badge" alt="404Program" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/404ProgramNotFound](https://github.com/404ProgramNotFound)
