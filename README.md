@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/bdream01353403" target="blank"><img src="https://img.shields.io/twitter/follow/bdream01353403?logo=twitter&style=for-the-badge" alt="bdream01353403" /></a> </p>
 
-- 🔭 I’m currently working on [Gofile-apiWrapper](https://github.com/404ProgramNotFound/apiWrap-Gofile)
-
-- 🌱 I’m currently learning **Node.js**
-
-- 🤝 I’m looking for help with [Gofile-apiWrapper](https://github.com/404ProgramNotFound/apiWrap-Gofile)
 
 - 👨‍💻 All of my projects are available at [https://github.com/404ProgramNotFound](https://github.com/404ProgramNotFound)
 
